@@ -1,4 +1,4 @@
-# 🛠️ AI Dev Day India: 2026 Technical Resource Hub
+# 🛠️ Agentic AI Architecture: The Engineering Handbook
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8c460f8c-0692-4e14-ab79-791d3926d6a8" />
 
